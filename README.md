@@ -1,4 +1,4 @@
-# Lemonsquuezy:1 ~vulnhub writeup
+# Lemonsqueezy:1 ~vulnhub writeup
 
 **DISCRIPTION**
 
